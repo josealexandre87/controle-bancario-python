@@ -14,17 +14,18 @@ Bem-vindo ao **Controle Bancário em Python**! Este é um projeto simples que si
 ## 🚀 Tecnologias Utilizadas
 
 - **Python 3.12+** 🐍
-- Estruturas de controle como `while`, `if-elif-else`
-- Operações com strings e números float
-- Interação via `input()` e `print()`
+  - Estruturas de controle como `while`, `if-elif-else`
+  - Operações com strings e números float
+  - Interação via `input()` e `print()`
 
 ## 🎯 Objetivo
 
-Este projeto tem o objetivo de praticar conceitos fundamentais de programação como loops, condicionais e manipulação de dados. Ele foi desenvolvido como parte de um **exercício prático** para consolidar a lógica de programação.
+Este projeto tem o objetivo de praticar conceitos fundamentais de programação Python como loops, condicionais e manipulação de dados. Ele foi desenvolvido como parte de um **exercício prático** para consolidar as aulas do Bootcamp NTT DATA - Engenharia de Dados com Python, da DIO.
 
 ## 🛠️ Como Executar
 
 1. Certifique-se de ter o **Python 3.12+** instalado em sua máquina.
+
 2. Clone o repositório:
     ```bash
     git clone https://github.com/josealexandre87/controle-bancario-python.git
